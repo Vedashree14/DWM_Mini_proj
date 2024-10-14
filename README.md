@@ -1,16 +1,22 @@
 Customer Insights Dashboard using Dash, K-Means, and Random Forest
 
-This project is an interactive dashboard for analyzing customer data from a Marketing Campaign dataset. It leverages Dash for web-based visualizations and scikit-learn for clustering and classification using the K-Means and Random Forest algorithms.
+
+This project is an interactive dashboard for analyzing customer data from a Marketing Campaign dataset. 
+
+It leverages Dash for web-based visualizations and scikit-learn for clustering and classification using the K-Means and Random Forest algorithms.
 
 
 
 📋 Project Overview
 
-This dashboard provides insights into customer behaviors, income distribution, spending patterns, and segmentation. It allows users to interactively explore data by filtering education levels and marital status and visualize results dynamically through various charts and graphs.
+
+This dashboard provides insights into customer behaviors, income distribution, spending patterns, and segmentation. 
+It allows users to interactively explore data by filtering education levels and marital status and visualize results dynamically through various charts and graphs.
 
 
 
 🚀 Features
+
 
 Income Distribution & Customer Count by Marital Status
 
@@ -25,6 +31,7 @@ Interactive filters to explore the data based on education and marital status.
 
 
 🛠️ Technologies Used
+
 
 Dash: For creating interactive dashboards.
 
@@ -89,7 +96,12 @@ Pandas, NumPy, Plotly, scikit-learn, Matplotlib, Seaborn
 📥 How to Use
 
 Adjust filters (education and marital status) to explore customer segments.
+
 The graphs will update dynamically based on the selected filters.
+
 Explore clustering and classification results through the dashboard.
+
+
 🎯 Project Goals
+
 The primary goal of this project is to derive meaningful insights from customer data and demonstrate the use of K-Means clustering and Random Forest algorithms within a data visualization dashboard.
