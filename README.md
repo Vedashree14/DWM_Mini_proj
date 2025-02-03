@@ -1,22 +1,17 @@
 # Customer Insights Dashboard using Dash, K-Means, and Random Forest
 
 
-This project is an interactive dashboard for analyzing customer data from a Marketing Campaign dataset. 
+<br>
 
-It leverages Dash for web-based visualizations and scikit-learn for clustering and classification using the K-Means and Random Forest algorithms.
-
-
-
-# 📋 Project Overview
-
+# Project Overview
 
 - This dashboard provides insights into customer behaviors, income distribution, spending patterns, and segmentation.
 - It allows users to interactively explore data by filtering education levels and marital status and visualize results dynamically through various charts and graphs.
 
 
+<br>
 
-# 🚀 Features
-
+# Features
 
 - Income Distribution & Customer Count by Marital Status
 - Spending Analysis by Product Category
@@ -24,9 +19,9 @@ It leverages Dash for web-based visualizations and scikit-learn for clustering a
 - Classification using Random Forest Model
 - Interactive filters to explore the data based on education and marital status.
 
+<br>
 
-# 🛠️ Technologies Used
-
+# Technologies Used
 
 - Dash: For creating interactive dashboards.
 
@@ -38,11 +33,11 @@ It leverages Dash for web-based visualizations and scikit-learn for clustering a
 
 - Matplotlib & Seaborn: For advanced visualizations (e.g., confusion matrices).
 
+<br>
 
+# Dataset
 
-# 📊 Dataset
-
-- The project uses the marketing_campaign.csv dataset, which contains information such as:
+The project uses the marketing_campaign.csv dataset, which contains information such as:
 
 - Income, Marital Status, Education
 
@@ -50,35 +45,17 @@ It leverages Dash for web-based visualizations and scikit-learn for clustering a
 
 - Segmentation features for clustering and classification.
 
+<br>
 
-
-# 🖼️ Project Layout
-
-- Left Panel: Filters for education and marital status.
-
-- Right Panel: Graphs including:
-
-- Income Distribution
-
-- Customer Count by Marital Status
-
-- K-Means Clustering Results
-
-- Random Forest Confusion Matrix & Feature Importance
-
-- Total Spending Breakdown by Category
-
-
-
-# 📈 Algorithms Used
+# Algorithms Used
 
 - K-Means Clustering: Groups customers based on their income and spending behavior.
 
 - Random Forest Classifier: Classifies customers by marital status based on income and spending habits.
 
+<br>
 
-
-# 📦 Requirements
+# Requirements
 
 - Python 3.9.6
 
@@ -86,9 +63,9 @@ It leverages Dash for web-based visualizations and scikit-learn for clustering a
 
 - Pandas, NumPy, Plotly, scikit-learn, Matplotlib, Seaborn
 
+<br>
 
-
-# 📥 How to Use
+# How to Use
 
 - Adjust filters (education and marital status) to explore customer segments.
 
@@ -96,7 +73,18 @@ It leverages Dash for web-based visualizations and scikit-learn for clustering a
 
 - Explore clustering and classification results through the dashboard.
 
+<br>
 
-# 🎯 Project Goals
+# Project Goals
 
 The primary goal of this project is to derive meaningful insights from customer data and demonstrate the use of K-Means clustering and Random Forest algorithms within a data visualization dashboard.
+
+<br>
+
+<img width="1707" alt="Screenshot 2024-10-18 at 11 42 55 PM" src="https://github.com/user-attachments/assets/56501b40-296e-45b6-a490-c57283fdf598" />
+
+<img width="1675" alt="Screenshot 2024-10-18 at 11 43 04 PM" src="https://github.com/user-attachments/assets/145009f3-6143-42a1-b8e0-216c537be706" />
+
+<img width="1681" alt="Screenshot 2024-10-18 at 11 43 10 PM" src="https://github.com/user-attachments/assets/df6e73f2-4e7b-4933-a58d-d621bece136b" />
+
+<img width="1680" alt="Screenshot 2024-10-18 at 11 43 17 PM" src="https://github.com/user-attachments/assets/bb230ffc-327d-4754-92b4-9030c7f275db" />
